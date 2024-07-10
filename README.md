@@ -156,12 +156,3 @@
 
 ---
 
-```c
-while(noSuccess){
-    tryAgain();
-    if(dead){
-        break;
-    }
-}
-```
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
